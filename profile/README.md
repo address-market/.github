@@ -9,3 +9,4 @@ several repos:
 - contracts
 - frontend
 - salt-finding script
+- metadata server for NFTs
