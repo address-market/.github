@@ -2,11 +2,21 @@
 
 ## Proudly made during ETH Barcelona
 
-[Presentation](https://docs.google.com/presentation/d/1BMHDSROMF2P4M7C3iZKPVcE9pVHdQoJPEC4xqgvkZIE)
+## We are live!
 
-## This organisation consists of
-several repos:
-- contracts
-- frontend
-- salt-finding script
-- metadata server for NFTs
+Address Market is located at [address-market.com](https://address-market.com) and [app.address-market.com](https://app.address-market.com)
+
+Our app supports:
+- Polygon
+- Ethereum
+- BNB Chain
+- Base
+- Gnosis Chain
+- Harmony One
+- Blast L2
+
+Multichain works on LayerZero protocol
+
+For now we support only mainnets. Testnets will be added later
+
+[The very first presentation](https://docs.google.com/presentation/d/1BMHDSROMF2P4M7C3iZKPVcE9pVHdQoJPEC4xqgvkZIE)
